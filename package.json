@@ -30,7 +30,7 @@
     "bootstrap": "^3.4.1",
     "chart.js": "^2.8.0",
     "core-js": "^2.6.9",
-    "highcharts": "^7.1.2",
+    "highcharts": "^9.0.0",
     "html2canvas": "^1.0.0-rc.3",
     "jspdf": "^1.5.3",
     "ng2-charts": "^1.6.0",
